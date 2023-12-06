@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Selvakumar Pandian
 - 👀 I’m interested in Machine learning and Deep learning
-- 🌱 I’m currently learning AIML through Greatlearning course
 - 💞️ I’m looking to collaborate on Data Scitentist
 - 📫 How to reach me SelvakumarPandian-AIML Github
 
